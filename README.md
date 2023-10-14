@@ -1,4 +1,3 @@
-# saptarshighosh-project
-This is my first on repository. 
-<br>
-author-saptarshi ghosh(ml and dl)
+# bengali word2vec
+i make bengali word2vec project using contineous bag of words 
+and take dataset from kaggle
